@@ -39,4 +39,6 @@ Console.WriteLine("========================");
 
 
 string alumnoB = "Alvaro";
-Console.WriteLine($"Desarrollador 2: {alumnoB}");   
+Console.WriteLine($"Desarrollador 2: {alumnoB}"); 
+string estadoRonda = "Ronda Final Completada";
+Console.WriteLine($"Estado: {estadoRonda}");  
