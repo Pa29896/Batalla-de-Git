@@ -9,10 +9,18 @@ string equipo = "Los programadores";
 int puntos = 350;
 double presupuesto = 50;
 
+Console.WriteLine($"Presupuesto: {presupuesto} €");
+
 double precioFinal = presupuesto * 1.5;
 
 double precioFinal2 = presupuesto - 25;
 double precioFinal3 = presupuesto * 2;
+
+double precioFinal4 = presupuesto / 2;
+Console.WriteLine($"Precio final 4: {precioFinal4} €");
+
+string nombreEquipo = "Los programadores";
+Console.WriteLine($"Nombre del equipo: {nombreEquipo}"); 
 
 string lenguajeFavorito = "Java";
 Console.WriteLine($"Lenguaje favorito: {lenguajeFavorito}");
