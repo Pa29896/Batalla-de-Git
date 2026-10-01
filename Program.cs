@@ -16,6 +16,7 @@ Console.WriteLine($"Presupuesto: {presupuesto} €");
 
 Console.WriteLine("========================");
 Console.WriteLine("   PROGRAMA TERMINADO");
+Console.WriteLine("       GAME OVER");
 Console.WriteLine("   Gracias por jugar");
 Console.WriteLine("========================");
 
