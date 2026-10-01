@@ -3,7 +3,7 @@ Console.WriteLine($"Desarrollador 1: {alumnoA}");
 
 Console.WriteLine("========================");
 Console.WriteLine("      EQUIPO C#");
-﻿Console.WriteLine("========================");
+Console.WriteLine("========================");
 
 string equipo = "Los programadores";
 int puntos = 350;
