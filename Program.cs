@@ -13,6 +13,8 @@ double precioFinal = presupuesto * 1.5;
 Console.WriteLine($"Equipo: {equipo}");
 Console.WriteLine($"Puntos: {puntos}");
 Console.WriteLine($"Presupuesto: {presupuesto} €");
+string lenguaje = "C#";
+Console.WriteLine($"Lenguaje: {lenguaje}");
 
 Console.WriteLine("========================");
 Console.WriteLine("   PROGRAMA TERMINADO");
