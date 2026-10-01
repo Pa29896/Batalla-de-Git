@@ -1,9 +1,9 @@
-﻿string alumnoA = "Pablo";
+﻿﻿string alumnoA = "Pablo";
 Console.WriteLine($"Desarrollador 1: {alumnoA}");
 
 Console.WriteLine("========================");
-Console.WriteLine("      EQUIPO DAW");
-Console.WriteLine("========================");
+Console.WriteLine("      EQUIPO C#");
+﻿Console.WriteLine("========================");
 
 string equipo = "Los programadores";
 int puntos = 100;
