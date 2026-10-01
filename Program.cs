@@ -7,6 +7,7 @@ int puntos = 500;
 double presupuesto = 50;
 double precioFinal = presupuesto + 25;
 double precioFinal2 = presupuesto - 25;
+double precioFinal3 = presupuesto * 2;
 
 string lenguaje = "Java";
 Console.WriteLine($"Lenguaje favorito: {lenguaje}");
